@@ -38,6 +38,9 @@ Chạy từng ô mã (cell) bằng cách nhấn Shift + Enter
 
 Dự án dùng tệp dữ liệu allData.csv.
 
+Link tải data: https://drive.google.com/file/d/1d5cLVGQQtN-SoDpgw8yeLATmrCiVNDBE/view?usp=sharing
+
 Đảm bảo tệp này nằm cùng thư mục với tệp notebook cntt2.ipynb (nếu dùng VS Code).
+
 
 Nếu sử dụng Google Colab, tải tệp allData.csv lên hoặc sử dụng Google Drive để lưu trữ dữ liệu.
